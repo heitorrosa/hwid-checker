@@ -1,2 +1,6 @@
-# HWID-Checker
-A simple program for show your hwid
+<div align="center">
+<h1> HWID Checker ⚙️</h1>
+</div> <br>
+
+> **Dependencies: NET Framework ⚠️**
+
