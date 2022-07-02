@@ -1,0 +1,11 @@
+C:\Users\xheit\source\repos\HWIDCheckerForms\HWIDCheckerForms\bin\Debug\HWIDCheckerForms.exe.config
+C:\Users\xheit\source\repos\HWIDCheckerForms\HWIDCheckerForms\bin\Debug\HWIDCheckerForms.exe
+C:\Users\xheit\source\repos\HWIDCheckerForms\HWIDCheckerForms\bin\Debug\HWIDCheckerForms.pdb
+C:\Users\xheit\source\repos\HWIDCheckerForms\HWIDCheckerForms\obj\Debug\HWIDCheckerForms.csproj.AssemblyReference.cache
+C:\Users\xheit\source\repos\HWIDCheckerForms\HWIDCheckerForms\obj\Debug\HWIDCheckerForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\xheit\source\repos\HWIDCheckerForms\HWIDCheckerForms\obj\Debug\HWIDCheckerForms.Form1.resources
+C:\Users\xheit\source\repos\HWIDCheckerForms\HWIDCheckerForms\obj\Debug\HWIDCheckerForms.Properties.Resources.resources
+C:\Users\xheit\source\repos\HWIDCheckerForms\HWIDCheckerForms\obj\Debug\HWIDCheckerForms.csproj.GenerateResource.cache
+C:\Users\xheit\source\repos\HWIDCheckerForms\HWIDCheckerForms\obj\Debug\HWIDCheckerForms.csproj.CoreCompileInputs.cache
+C:\Users\xheit\source\repos\HWIDCheckerForms\HWIDCheckerForms\obj\Debug\HWIDCheckerForms.exe
+C:\Users\xheit\source\repos\HWIDCheckerForms\HWIDCheckerForms\obj\Debug\HWIDCheckerForms.pdb
