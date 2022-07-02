@@ -1,0 +1,10 @@
+C:\Users\xheit\Source\Repos\HWID-Checker\HWID Checker\obj\Debug\HWID Checker.csproj.AssemblyReference.cache
+C:\Users\xheit\Source\Repos\HWID-Checker\HWID Checker\obj\Debug\HWID Checker.csproj.SuggestedBindingRedirects.cache
+C:\Users\xheit\Source\Repos\HWID-Checker\HWID Checker\obj\Debug\HWID_Checker.Properties.Resources.resources
+C:\Users\xheit\Source\Repos\HWID-Checker\HWID Checker\obj\Debug\HWID Checker.csproj.GenerateResource.cache
+C:\Users\xheit\Source\Repos\HWID-Checker\HWID Checker\obj\Debug\HWID Checker.csproj.CoreCompileInputs.cache
+C:\Users\xheit\Source\Repos\HWID-Checker\HWID Checker\bin\Debug\HWID Checker.exe.config
+C:\Users\xheit\Source\Repos\HWID-Checker\HWID Checker\bin\Debug\HWID Checker.exe
+C:\Users\xheit\Source\Repos\HWID-Checker\HWID Checker\bin\Debug\HWID Checker.pdb
+C:\Users\xheit\Source\Repos\HWID-Checker\HWID Checker\obj\Debug\HWID Checker.exe
+C:\Users\xheit\Source\Repos\HWID-Checker\HWID Checker\obj\Debug\HWID Checker.pdb
